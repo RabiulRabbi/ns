@@ -1,0 +1,27 @@
+a N
+b O
+c A
+d T
+e R
+f B
+g E
+h C
+i F
+j U
+k X
+l D
+m Q
+n G
+o Y
+p L
+q K
+r H
+s V
+t I
+u J
+v M
+w P
+x Z
+y S
+z W
+attackistoday
